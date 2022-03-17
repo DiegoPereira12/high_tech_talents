@@ -1,8 +1,7 @@
 # Faça um Programa que converta metros para centímetros
-
+print(35 * '=')
 print('Convertendo metros em centímentros')
-
-print(30 * '=')
+print(35 * '=')
 
 m = float(input('Digite o valor a ser convertido => '))
 

@@ -1,15 +1,18 @@
 # Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 
+from os import system
 from time import sleep
 
-print('Insira as notas solicitadas abaixo para calcularmos a média\n')
-
-print(30 * '=')
+print(60 * '=')
+print('Insira as notas solicitadas abaixo para calcularmos a média')
+print(60 * '=')
 
 nota1 = float(input('Digite a primeira nota => '))
 nota2 = float(input('Digite a segunda nota => '))
 nota3 = float(input('Digite a terceira nota => '))
 nota4 = float(input('Digite a quarta nota => '))
+
+system('cls')
 
 media = (nota1 + nota2 + nota3 + nota4) / 4
 
