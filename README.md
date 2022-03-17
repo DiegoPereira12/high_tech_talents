@@ -4,7 +4,7 @@
 
 <p>ListaDeExercicios - Estrutura Sequencial <p>
   
-<ul><a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/exercicios_python">exercicios_python</a></ul>
+<ul><a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/exercicios_python">|| exercicios_python || </a></ul>
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_01.py"> exercicio_01.py </a></li>
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_02.py"> exercicio_02.py </a></li>
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_03.py"> exercicio_03.py </a> </li>
