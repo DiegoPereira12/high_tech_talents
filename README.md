@@ -1,4 +1,6 @@
-# High Tech Talents - Share RH
+# High Tech Talents - Share RH  
+
+
 ## Repositório criado para importar conteúdos do curso High Tech Talents
 
 
@@ -17,3 +19,4 @@
 <li>:keycap_ten:<a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_10.py"> exercicio_10.py </a></li>
 
 ### Fonte: <a href = "https://wiki.python.org.br/EstruturaSequencial"> Python Brasil </a>
+![image](https://user-images.githubusercontent.com/82544146/158895524-f7a87e48-3a39-4bc8-b3f5-29b171ed79db.png)
