@@ -14,4 +14,4 @@
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_07.py"> exercicio_07.py </a></li>
 <li><a href = "" > </a> </li>
 
-### Fonte: Python Brasil
+### Fonte: <a href = "https://wiki.python.org.br/EstruturaSequencial"> Python Brasil </a>
