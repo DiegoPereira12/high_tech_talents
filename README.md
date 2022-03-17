@@ -10,8 +10,11 @@
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_03.py"> exercicio_03.py </a> </li>
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_04.py"> exercicio_04.py </a></li>
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_05.py"> exercicio_05.py </a></li>
-<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_06.py"> exercicio_06.py</a></li>
+<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_06.py"> exercicio_06.py </a></li>
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_07.py"> exercicio_07.py </a></li>
+<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_08.py"> exercicio_08.py </a></li>
+<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_09.py"> exercicio_09.py </a></li>
+<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_10.py"> exercicio_10.py </a></li>
 <li><a href = "" > </a> </li>
 
 ### Fonte: <a href = "https://wiki.python.org.br/EstruturaSequencial"> Python Brasil </a>
