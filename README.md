@@ -3,7 +3,10 @@
 
 ## Repositório criado para importar conteúdos do curso High Tech Talents
 
-
+<p>Atividades Aula<p>
+<ul><a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/Atividades%20pr%C3%A1ticas%20em%20aula">|| Atividades práticas em aula || </a></ul>
+<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/Atividades%20pr%C3%A1ticas%20em%20aula/tabuada.py"> tabuada.py </a></li>
+<br>
 <p>ListaDeExercicios - Estrutura Sequencial <p>
   
 <ul><a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/exercicios_python">|| exercicios_python || </a></ul>
