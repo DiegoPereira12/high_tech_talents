@@ -16,7 +16,8 @@
 <li>:seven:<a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_07.py"> exercicio_07.py </a></li>
 <li>:eight:<a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_08.py"> exercicio_08.py </a></li>
 <li>:nine:<a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_09.py"> exercicio_09.py </a></li>
-<li>:keycap_ten:<a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_10.py"> exercicio_10.py </a></li>
+<li>:one::zero:<a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_10.py"> exercicio_10.py </a></li>
+<li>:one::one:<a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_11.py"> exercicio_11.py </a></li>
 
 ### Fonte: <a href = "https://wiki.python.org.br/EstruturaSequencial"> Python Brasil </a>
 ![image](https://user-images.githubusercontent.com/82544146/158895524-f7a87e48-3a39-4bc8-b3f5-29b171ed79db.png)
