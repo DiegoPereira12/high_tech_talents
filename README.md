@@ -4,12 +4,12 @@
 ## Repositório criado para importar conteúdos do curso High Tech Talents
 
 <p>Atividades Aula<p>
-<ul><a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/Atividades%20pr%C3%A1ticas%20em%20aula">|| Atividades práticas em aula || </a></ul>
+<ul>:open_file_folder:<a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/Atividades%20pr%C3%A1ticas%20em%20aula"> Atividades práticas em aula </a></ul>
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/Atividades%20pr%C3%A1ticas%20em%20aula/tabuada.py"> tabuada.py </a></li>
 <br>
 <p>ListaDeExercicios - Estrutura Sequencial <p>
   
-<ul><a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/exercicios_python">|| exercicios_python || </a></ul>
+<ul>:open_file_folder:<a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/exercicios_python"> exercicios_python </a></ul>
 <li>:one:<a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_01.py"> exercicio_01.py </a></li>
 <li>:two:<a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_02.py"> exercicio_02.py </a></li>
 <li>:three:<a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_03.py"> exercicio_03.py </a> </li>
@@ -27,3 +27,7 @@
 
 ### Fonte: <a href = "https://wiki.python.org.br/EstruturaSequencial"> Python Brasil </a>
 ![image](https://user-images.githubusercontent.com/82544146/158895524-f7a87e48-3a39-4bc8-b3f5-29b171ed79db.png)
+
+<ul>:open_file_folder:<a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/fun%C3%A7%C3%B5es"> Funções </a></ul>
+<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/fun%C3%A7%C3%B5es/tabuada.py"> tabuada(função) </a></li>
+
