@@ -6,10 +6,13 @@
 <p>Atividades Aula<p>
 <ul>:open_file_folder:<a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/Atividades%20pr%C3%A1ticas%20em%20aula"> Atividades práticas em aula </a></ul>
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/Atividades%20pr%C3%A1ticas%20em%20aula/tabuada.py"> tabuada.py </a></li>
+
 <br>
+
+<ul>:open_file_folder:<a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/exercicios_python"> exercicios_python </a></ul>
+
 <p>ListaDeExercicios - Estrutura Sequencial <p>
   
-<ul>:open_file_folder:<a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/exercicios_python"> exercicios_python </a></ul>
 <li>:one:<a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_01.py"> exercicio_01.py </a></li>
 <li>:two:<a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_02.py"> exercicio_02.py </a></li>
 <li>:three:<a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/exercicios_python/exercicio_03.py"> exercicio_03.py </a> </li>
