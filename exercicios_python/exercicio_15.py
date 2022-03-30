@@ -21,9 +21,9 @@ horas_trabalhadas = float(input('Quantas horas você trabalhou?: '))
 
 salario_bruto = valor * horas_trabalhadas
 
-print('=' * 111)
+print('=' * 112)
 print(f'O valor recebido por hora é {valor} reais, vezes {horas_trabalhadas} horas trabalhadas, seu salário BRUTO esse mês é R$ {salario_bruto} reais.')
-print('=' * 111)
+print('=' * 112)
 
 print('Aguarde enquanto calculamos os descontos ...\n')
 sleep(5)
