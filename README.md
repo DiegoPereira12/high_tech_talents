@@ -6,7 +6,7 @@
 <p>Atividades Aula<p>
 <ul>:open_file_folder:<a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/Atividades%20pr%C3%A1ticas%20em%20aula"> Atividades práticas em aula </a></ul>
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/Atividades%20pr%C3%A1ticas%20em%20aula/tabuada.py"> tabuada.py </a></li>
-<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/Atividades%20pr%C3%A1ticas%20em%20aula/poo_heran%C3%A7as"> poo_heranças </a></li>
+<li>:arrow_right_hook:<a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/Atividades%20pr%C3%A1ticas%20em%20aula/poo_heran%C3%A7as"> poo_heranças </a></li>
 
 <br>
 
@@ -35,6 +35,6 @@
 
 <ul>:open_file_folder:<a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/fun%C3%A7%C3%B5es"> Funções </a></ul>
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/fun%C3%A7%C3%B5es/tabuada.py"> tabuada(função) </a></li>
-<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/fun%C3%A7%C3%B5es/cadastro"> cadastro </a></li>
+<li>:arrow_right_hook:<a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/fun%C3%A7%C3%B5es/cadastro"> cadastro </a></li>
 
 
