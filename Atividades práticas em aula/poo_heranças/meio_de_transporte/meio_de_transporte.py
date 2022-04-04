@@ -1,26 +1,35 @@
 class MeioDeTransporte():
-    pass
+    def __init__(self, marca, modelo):
+        self.marca = marca
+        self.modelo = modelo
+ 
 
-class TransporteTerreste():
-
-    def carro():
-        pass
-
-    def caminhao():
-        pass
-
-class TransporteAquatico():
+class TransporteTerreste(MeioDeTransporte):
+    def __init__(self, marca, modelo):
+        super().__init__(marca, modelo)
     
-    def barco():
+    def carro(self):
         pass
 
-    def lancha():
+    def caminhao(self):
         pass
 
-class TransporteAreo():
-
-    def aviao():
+class TransporteAquatico(MeioDeTransporte):
+    def __init__(self, marca, modelo):
+        super().__init__(marca, modelo)
+    
+    def barco(self):
         pass
 
-    def helicoptero():
+    def lancha(self):
+        pass
+
+class TransporteAreo(MeioDeTransporte):
+    def __init__(self, marca, modelo):
+        super().__init__(marca, modelo)
+
+    def aviao(self):
+        pass
+
+    def helicoptero(self):
         pass
