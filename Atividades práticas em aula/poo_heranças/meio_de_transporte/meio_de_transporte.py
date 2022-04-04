@@ -11,7 +11,7 @@ class TransporteTerreste(MeioDeTransporte):
     def carro(self):
         pass
 
-    def caminhao(self):
+    def moto(self):
         pass
 
 class TransporteAquatico(MeioDeTransporte):
