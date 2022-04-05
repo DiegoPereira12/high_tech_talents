@@ -33,6 +33,7 @@ aviao1.imprime('Airbus','A300')
 aviao2.imprime('Boeing','767')
 
 print('=' * 50)
+
 # Instanciando Helicoptero
 
 helicoptero1 = Helicoptero('Boeing','Chinook')
