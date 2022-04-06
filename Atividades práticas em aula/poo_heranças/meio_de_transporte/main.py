@@ -1,41 +1,53 @@
 
-from transporte_terrestre.transporte_terrestre import Carro, carro1, carro2
+from transporte_terrestre.transporte_terrestre import Carro, Moto
 
 
-while True:
+def main():
 
-    print('Escolha uma opção:')
-    print('1 - Transporte Terrestre')
-    print('2 - Transporte Aquático')
-    print('3 - Transporte Áereo')
-    print('4 - Sair')
+    while True:
 
-    opcao = int(input('=> '))
+        print('Escolha uma opção:')
+        print('1 - Transporte Terrestre')
+        print('2 - Transporte Aquático')
+        print('3 - Transporte Áereo')
+        print('4 - Sair')
 
-    if opcao == 1:
-        print('1 - Carro')
-        print('2 - Moto')
-        opcao = int(input('=> '))
+        opcao = input('=> ')
 
-        if opcao == 1:
-            print('Temos as seguintes oções')
+        if opcao == '1':
+            print('1 - Carro')
+            print('2 - Moto')
+            opcao = input('=> ')
+
+            if opcao == '1':
+                print('Temos as seguintes oções')
             
            
          
-    elif opcao == 2:
-        print('1 - Navio')
-        print('2 - Lancha')
-        opcao = int(input('=> '))
-    
-    elif opcao == 3:
-        print('1 - Avião')
-        print('2 - Helicoptero')
-        opcao = int(input('=> '))
-    
-    elif opcao == 4:
-        break
+        elif opcao == '2':
+            print('1 - Navio')
+            print('2 - Lancha')
+            opcao = input('=> ')
+            if opcao == '1':
+                from transporte_aquatico.transporte_aquatico import Navio
+                navio = Navio = Navio(marca='', modelo='')
 
-    else:
-        print('Opção Inválida')
+            elif opcao == '2':
+                pass
+               
+           
+    
+        elif opcao == '3':
+            print('1 - Avião')
+            print('2 - Helicoptero')
+            opcao = input('=> ')
+    
+        elif opcao == '4':
+            break
 
+        else:
+            print('Opção Inválida')
+
+if __name__ == '__main__':
+    main()
   
