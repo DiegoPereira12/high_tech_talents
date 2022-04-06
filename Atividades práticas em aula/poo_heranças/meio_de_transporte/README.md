@@ -1,8 +1,8 @@
 ## Fazer sistema para consultar Meios de Transporte (Console)
 
 1 - Planejar a solução <br>
-* Criar 3 modulos - Transporte Terrestre, Aquático, Áereo
-* Criar no arquivo main, menu com 3 opções:
+* Criar 3 modulos - Transporte Terrestre, Aquático, Áereo.
+* Criar no arquivo main, menu com 4 opções:
 	- Transporte Terrestre
 	- Transporte Aquático
 	- Transporte Áereo 
