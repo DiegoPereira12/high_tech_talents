@@ -11,6 +11,17 @@
 
 <br>
 
+<ul>:open_file_folder:<a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/banco%20de%20dados/"> banco de dados </a></ul>
+<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/banco%20de%20dados/banco%20de%20dados%20imobiliaria"> banco de dados imobiliaria </a></li>
+
+<br>
+
+<ul>:open_file_folder:<a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/criando%20aplica%C3%A7%C3%B5es"> criando aplicações </a></ul>
+<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/criando%20aplica%C3%A7%C3%B5es/flask_templates/"> flask_templates </a></li>
+<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/criando%20aplica%C3%A7%C3%B5es/meu_primeito_flask/"> meu_primeito_flask </a></li>
+
+<br>
+  
 <ul>:open_file_folder:<a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/exercicios_python"> exercicios_python </a></ul>
 
 <p>ListaDeExercicios - Estrutura Sequencial <p>
@@ -38,8 +49,7 @@
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/fun%C3%A7%C3%B5es/tabuada.py"> tabuada(função) </a></li>
 <li>:arrow_right_hook:<a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/fun%C3%A7%C3%B5es/cadastro"> cadastro </a></li>
 <br>
-<ul>:open_file_folder:<a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/banco%20de%20dados/"> banco de dados </a></ul>
-<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/banco%20de%20dados/banco%20de%20dados%20imobiliaria"> banco de dados imobiliaria </a></li>
+
 
 
 
