@@ -47,7 +47,7 @@
 
 <ul>:open_file_folder:<a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/fun%C3%A7%C3%B5es"> Funções </a></ul>
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/blob/main/fun%C3%A7%C3%B5es/tabuada.py"> tabuada(função) </a></li>
-<li>:arrow_right_hook:<a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/fun%C3%A7%C3%B5es/cadastro"> cadastro </a></li>
+<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/fun%C3%A7%C3%B5es/cadastro"> cadastro </a></li>
 <br>
 
 
