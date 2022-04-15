@@ -19,6 +19,8 @@
 <ul>:open_file_folder:<a href ="https://github.com/DiegoPereira12/high_tech_talents/tree/main/criando%20aplica%C3%A7%C3%B5es"> criando aplicações </a></ul>
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/criando%20aplica%C3%A7%C3%B5es/flask_templates/"> flask_templates </a></li>
 <li><a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/criando%20aplica%C3%A7%C3%B5es/meu_primeito_flask/"> meu_primeito_flask </a></li>
+<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/criando%20aplica%C3%A7%C3%B5es/cars_api"> cars_api </a></li>
+<li><a href = "https://github.com/DiegoPereira12/high_tech_talents/tree/main/criando%20aplica%C3%A7%C3%B5es/flask_sqlachemy"> flask_sqlalchemy </a></li>
 
 <br>
   
