@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\User\Documents\high_tech_talents_desktop\flask_sqlachemy"
+VIRTUAL_ENV="C:\Users\User\Documents\high_tech_talents\criando aplicações\flask_sqlachemy"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
